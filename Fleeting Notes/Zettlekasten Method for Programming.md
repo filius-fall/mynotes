@@ -1,3 +1,20 @@
+---
+aliases: [Zettlekasten Method for Programming]
+tags:
+  - notes
+  - first 
+
+---
+
+# Zettlekasten Method for Programming
+Creation Date: 2022-09-18T22:37
+
+
+
+
+
+
+## References
 https://www.youtube.com/watch?v=jbvEJvTwllk
 
 Step by step process tutorial

@@ -1,0 +1,1 @@
+Bidirectional connection unlike HTTP which is unidirectional. It keeps connection open for multi flow messages should use carefully may cause security erros

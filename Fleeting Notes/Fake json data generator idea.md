@@ -1,0 +1,1 @@
+generate fake json data based on input fields given by user
