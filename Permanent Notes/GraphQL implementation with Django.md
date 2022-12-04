@@ -24,3 +24,11 @@ Now pip install following pacakges
 $ pip install django graphene-django
 ```
 
+Now start django project and graphql app using the following commands
+
+```Shell
+$ django-admin startproject graph_katas
+$ django-admin startapp book_project
+```
+
+I am doing this project to practice the Graphql implementation with Django so thats why i named it graph_katas since 
